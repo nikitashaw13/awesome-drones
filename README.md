@@ -3,7 +3,7 @@
 A curated list of awesome drones, builds, kits, DIYs, resources and other related things.
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/piyushchauhan/awesome-drones/pulls)
+Looking to [contribute](contributing.md)?
 
 ## Table of Contents
 
