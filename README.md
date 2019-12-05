@@ -31,3 +31,4 @@ Looking to [contribute](contributing.md)?
 ## Forums
 ## News
 - [sUAV News](https://www.suasnews.com/)
+- [Dronelife](https://dronelife.com/)
