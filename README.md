@@ -26,7 +26,7 @@ Looking to [contribute](contributing.md)?
 ## Unmanned-Aerial-Vehicle-UAV
 ## Tools
 ### Simulator
-- [Mircosot AirSim](https://github.com/microsoft/AirSim)
+- [Microsoft AirSim](https://github.com/microsoft/AirSim)
 
 ## Forums
 ## News
