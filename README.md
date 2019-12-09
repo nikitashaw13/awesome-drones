@@ -13,6 +13,7 @@ Looking to [contribute](contributing.md)?
 * [Tools](#Tools)
 * [Blogs](#Blogs)
 * [News](#News)
+* [License](#License)
 
 ## Builds and Hardware
 
