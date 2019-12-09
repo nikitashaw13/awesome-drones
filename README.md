@@ -1,4 +1,4 @@
-# Awesome Drones [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/piyushchauhan/awesome-drones)
+# Awesome Drones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome drones, builds, kits, DIYs, resources and other related things.
 
