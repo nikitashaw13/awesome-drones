@@ -14,6 +14,7 @@ Looking to [contribute](contributing.md)?
 * [Blogs](#Blogs)
 * [News](#News)
 * [License](#License)
+* [Drone Delivery in India](Drone_Delivery_in_India.md)
 
 ## Builds and Hardware
 
